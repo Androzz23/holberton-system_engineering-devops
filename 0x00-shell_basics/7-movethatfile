@@ -1,2 +1,2 @@
 #!/bin/bash
-mn /tmp/betty /tmp/holberton/
+mn /tmp/betty/ /tmp/holberton/
